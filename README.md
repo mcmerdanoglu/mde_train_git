@@ -1,0 +1,1 @@
+Git tryouts with bash
